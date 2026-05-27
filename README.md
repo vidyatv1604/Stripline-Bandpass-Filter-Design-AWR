@@ -58,5 +58,3 @@ This project presents the design and simulation of a **stripline bandpass filter
 
 * AWR Microwave Office
 * Microstrip/Stripline models (MLIN, MLEF, etc.)
-
-Just tell me 👍
